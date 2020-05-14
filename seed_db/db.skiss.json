@@ -1,0 +1,57 @@
+{
+  "users": {
+    "jonasmyrenas": {
+      "name": "Jonas Myrenås",
+      "totalsightings": 2,
+      "sightings": {
+        "aeshnamixta123": true,
+        "aeshnagrandis123": true
+      }
+    },
+    "matildamyrenas": {
+      "name": "Matilda Myrenås",
+      "totalsightings": 1,
+      "sightings": {
+        "aeshnagrandis123": true
+      }
+    }
+  },
+  "sightings": {
+    "aeshnamixta123": {
+      "date": 123,
+      "municipality": "sollentuna",
+      "users": {
+        "jonasmyrenas": true
+      }
+    },
+    "aeshnagrandis123": {
+      "date": 123,
+      "municipality": "upplandsvasby",
+      "users": {
+        "matildamyrenas": true
+      }
+    }
+  },
+  "list": {
+    "aeshnamixta": {
+      "name": "Aeshna mixta",
+      "genus": "Aeshna",
+      "family": "Aeshnidae"
+    },
+    "aeshnagrandis": {
+      "name": "Aeshna grandis",
+      "genus": "Aeshna",
+      "family": "Aeshnidae"
+    }
+  },
+  "municipalities": {
+    "sollentuna": {
+      "name": "Sollentuna",
+      "county": "Stockholm"
+    },
+    "upplandsvasby": {
+      "name": "Upplands Väsby",
+      "county": "Stockholm"
+    }
+  }
+}

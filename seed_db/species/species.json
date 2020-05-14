@@ -1,0 +1,707 @@
+[
+  {
+    "id": "aeshnaaffinis",
+    "scientific_name": "Aeshna affinis",
+    "name": "Klarblå mosaikslända"
+  },
+  {
+    "id": "aeshnacaerulea",
+    "scientific_name": "Aeshna caerulea",
+    "name": "Fjällmosaikslända"
+  },
+  {
+    "id": "aeshnacrenata",
+    "scientific_name": "Aeshna crenata",
+    "name": "Sibirisk mosaikslända"
+  },
+  {
+    "id": "aeshnacyanea",
+    "scientific_name": "Aeshna cyanea",
+    "name": "Blågrön mosaikslända"
+  },
+  {
+    "id": "aeshnagrandis",
+    "scientific_name": "Aeshna grandis",
+    "name": "Brun mosiakslända"
+  },
+  {
+    "id": "aeshnaisoceles",
+    "scientific_name": "Aeshna isoceles",
+    "name": "Kilfläckslända"
+  },
+  {
+    "id": "aeshnajuncea",
+    "scientific_name": "Aeshna juncea",
+    "name": "Starrmosaikslända"
+  },
+  {
+    "id": "aeshnamixta",
+    "scientific_name": "Aeshna mixta",
+    "name": "Höstmosaikslända"
+  },
+  {
+    "id": "aeshnaserrata",
+    "scientific_name": "Aeshna serrata",
+    "name": "Vassmosaikslända"
+  },
+  {
+    "id": "aeshnasubarctia",
+    "scientific_name": "Aeshna subarctica",
+    "name": "Gungflymosaikslända"
+  },
+  {
+    "id": "aeshnaviridis",
+    "scientific_name": "Aeshna viridis",
+    "name": "Grön mosaikslända"
+  },
+  {
+    "id": "anaxephippiger",
+    "scientific_name": "Anax ephippiger",
+    "name": "Brun mosaikslända"
+  },
+  {
+    "id": "anaximmaculifrons",
+    "scientific_name": "Anax immaculifrons",
+    "name": "Anax immaculifrons"
+  },
+  {
+    "id": "anaximperator",
+    "scientific_name": "Anax imperator",
+    "name": "Blå kejsartrollslända"
+  },
+  {
+    "id": "anaxjunius",
+    "scientific_name": "Anax junius",
+    "name": "Anax junius"
+  },
+  {
+    "id": "anaxparthenope",
+    "scientific_name": "Anax parthenope",
+    "name": "Mindre kejsartrollslända"
+  },
+  {
+    "id": "boyeriacretensis",
+    "scientific_name": "Boyeria cretensis",
+    "name": "Boyeria cretensis"
+  },
+  {
+    "id": "boyeriairene",
+    "scientific_name": "Boyeria irene",
+    "name": "Boyeria irene"
+  },
+  {
+    "id": "brachytronpratense",
+    "scientific_name": "Brachytron pratense",
+    "name": "Tidig mosaikslända"
+  },
+  {
+    "id": "caliaeschnamicrostigma",
+    "scientific_name": "Caliaeschna microstigma",
+    "name": "Caliaeschna microstigma"
+  },
+  {
+    "id": "calopteryxhaemorrhoidalis",
+    "scientific_name": "Calopteryx haemorrhoidalis",
+    "name": "Calopteryx haemorrhoidalis"
+  },
+  {
+    "id": "calopteryxsplendens",
+    "scientific_name": "Calopteryx splendens",
+    "name": "Blå jungfruslända"
+  },
+  {
+    "id": "calopteryxvirgo",
+    "scientific_name": "Calopteryx virgo",
+    "name": "Blåbandad junfruslända"
+  },
+  {
+    "id": "calopteryxxanthostoma",
+    "scientific_name": "Calopteryx xanthostoma",
+    "name": "Calopteryx xanthostoma"
+  },
+  {
+    "id": "ceriagriongeorgifreyi",
+    "scientific_name": "Ceriagrion georgifreyi",
+    "name": "Ceriagrion georgifreyi"
+  },
+  {
+    "id": "ceriagriontenellum",
+    "scientific_name": "Ceriagrion tenellum",
+    "name": "Mindre blodflickslända"
+  },
+  {
+    "id": "coenagrionarmatum",
+    "scientific_name": "Coenagrion armatum",
+    "name": "Griptångflickslända"
+  },
+  {
+    "id": "coenagrioncaerulaescens",
+    "scientific_name": "Coenagrion caerulaescens",
+    "name": "Coenagrion caerulaescens"
+  },
+  {
+    "id": "coenagrionecornutum",
+    "scientific_name": "Coenagrion ecornutum",
+    "name": "Coenagrion ecornutum"
+  },
+  {
+    "id": "coenagrionglaciale",
+    "scientific_name": "Coenagrion glaciale",
+    "name": "Coenagrion glaciale"
+  },
+  {
+    "id": "coenagrionhastulatum",
+    "scientific_name": "Coenagrion hastulatum",
+    "name": "Spjutflickslända"
+  },
+  {
+    "id": "coenagrionhylas",
+    "scientific_name": "Coenagrion hylas",
+    "name": "Coenagrion hylas"
+  },
+  {
+    "id": "coenagrionintermedium",
+    "scientific_name": "Coenagrion intermedium",
+    "name": "Coenagrion intermedium"
+  },
+  {
+    "id": "coenagrionjohanssoni",
+    "scientific_name": "Coenagrion johanssoni",
+    "name": "Myrflickslända"
+  },
+  {
+    "id": "coenagrionlunulatum",
+    "scientific_name": "Coenagrion lunulatum",
+    "name": "Månflickslända"
+  },
+  {
+    "id": "coenagrionmercuriale",
+    "scientific_name": "Coenagrion mercuriale",
+    "name": "Coenagrion mercuriale"
+  },
+  {
+    "id": "coenagrionornatum",
+    "scientific_name": "Coenagrion ornatum",
+    "name": "Fågelflickslända"
+  },
+  {
+    "id": "coenagrionpuella",
+    "scientific_name": "Coenagrion puella",
+    "name": "Ljus lyrflickslända"
+  },
+  {
+    "id": "coenagrionpulchellum",
+    "scientific_name": "Coenagrion pulchellum",
+    "name": "Mörk lyrflickslända"
+  },
+  {
+    "id": "coenagrionscitulum",
+    "scientific_name": "Coenagrion scitulum",
+    "name": "Gaffelflickslända"
+  },
+  {
+    "id": "enallagmacyathigerum",
+    "scientific_name": "Enallagma cyathigerum",
+    "name": "Sjöflickslända"
+  },
+  {
+    "id": "erythrommalindenii",
+    "scientific_name": "Erythromma lindenii",
+    "name": "Pokalflickslända"
+  },
+  {
+    "id": "erythrommanajas",
+    "scientific_name": "Erythromma najas",
+    "name": "Större rödögonflickslända"
+  },
+  {
+    "id": "erythrommaviridulum",
+    "scientific_name": "Erythromma viridulum",
+    "name": "Mindre rödögonflickslända"
+  },
+  {
+    "id": "ischnuraaralensis",
+    "scientific_name": "Ischnura aralensis",
+    "name": "Ischnura aralensis"
+  },
+  {
+    "id": "ischnuraelegans",
+    "scientific_name": "Ischnura elegans",
+    "name": "Större kustflickslända"
+  },
+  {
+    "id": "ischnurafountaineae",
+    "scientific_name": "Ischnura fountaineae",
+    "name": "Ischnura fountaineae"
+  },
+  {
+    "id": "ischnuragenei",
+    "scientific_name": "Ischnura genei",
+    "name": "Ischnura genei"
+  },
+  {
+    "id": "ischnuragraellsii",
+    "scientific_name": "Ischnura graellsii",
+    "name": "Ischnura graellsii"
+  },
+  {
+    "id": "ischnurahastata",
+    "scientific_name": "Ischnura hastata",
+    "name": "Ischnura hastata"
+  },
+  {
+    "id": "ischnuraintermedia",
+    "scientific_name": "Ischnura intermedia",
+    "name": "Ischnura intermedia"
+  },
+  {
+    "id": "ischnurapumilio",
+    "scientific_name": "Ischnura pumilio",
+    "name": "Mindre kustflickslända"
+  },
+  {
+    "id": "ischnurasaharensis",
+    "scientific_name": "Ischnura saharensis",
+    "name": "Ischnura saharensis"
+  },
+  {
+    "id": "ischnurasenegalensis",
+    "scientific_name": "Ischnura senegalensis",
+    "name": "Ischnura senegalensis"
+  },
+  {
+    "id": "nehalenniaspeciosa",
+    "scientific_name": "Nehalennia speciosa",
+    "name": "Dvärgflickslända"
+  },
+  {
+    "id": "pyrrhosomanymphula",
+    "scientific_name": "Pyrrhosoma nymphula",
+    "name": "Röd flickslända"
+  },
+  {
+    "id": "pyrrhosomaelisabethae",
+    "scientific_name": "Pyrrhosoma elisabethae",
+    "name": "Pyrrhosoma elisabethae"
+  },
+  {
+    "id": "cordulegasterbidentata",
+    "scientific_name": "Cordulegaster bidentata",
+    "name": "Cordulegaster bidentata"
+  },
+  {
+    "id": "cordulegasterboltonii",
+    "scientific_name": "Cordulegaster boltonii",
+    "name": "Kungstrollslända"
+  },
+  {
+    "id": "cordulegasterhelladica",
+    "scientific_name": "Cordulegaster helladica",
+    "name": "Cordulegaster helladica"
+  },
+  {
+    "id": "cordulegasterheros",
+    "scientific_name": "Cordulegaster heros",
+    "name": "Cordulegaster heros"
+  },
+  {
+    "id": "cordulegasterinsignis",
+    "scientific_name": "Cordulegaster insignis",
+    "name": "Cordulegaster insignis"
+  },
+  {
+    "id": "cordulegasterpicta",
+    "scientific_name": "Cordulegaster picta",
+    "name": "Cordulegaster picta"
+  },
+  {
+    "id": "cordulegastertrinacriae",
+    "scientific_name": "Cordulegaster trinacriae",
+    "name": "Cordulegaster trinacriae"
+  },
+  {
+    "id": "corduliaaenea",
+    "scientific_name": "Cordulia aenea",
+    "name": "Guldtrollslända"
+  },
+  {
+    "id": "epithecabimaculata",
+    "scientific_name": "Epitheca bimaculata",
+    "name": "Tvåfläckad trollslända"
+  },
+  {
+    "id": "somatochloraalpestris",
+    "scientific_name": "Somatochlora alpestris",
+    "name": "Fjälltrollslända"
+  },
+  {
+    "id": "somatochloraarctica",
+    "scientific_name": "Somatochlora arctica",
+    "name": "Mindre glanstrollslända"
+  },
+  {
+    "id": "somatochloraborisi",
+    "scientific_name": "Somatochlora borisi",
+    "name": "Somatochlora borisi"
+  },
+  {
+    "id": "somatochloraflavomaculata",
+    "scientific_name": "Somatochlora flavomaculata",
+    "name": "Gulfläckad glanstrollslända"
+  },
+  {
+    "id": "somatochloragraeseri",
+    "scientific_name": "Somatochlora graeseri",
+    "name": "Somatochlora graeseri"
+  },
+  {
+    "id": "somatochlorameridionalis",
+    "scientific_name": "Somatochlora meridionalis",
+    "name": "Somatochlora meridionalis"
+  },
+  {
+    "id": "somatochlorametallica",
+    "scientific_name": "Somatochlora metallica",
+    "name": "Metalltrollslända"
+  },
+  {
+    "id": "somatochlorasahlbergi",
+    "scientific_name": "Somatochlora sahlbergi",
+    "name": "Tundratrollslända"
+  },
+  {
+    "id": "epallagefatime",
+    "scientific_name": "Epallage fatime",
+    "name": "Epallage fatime"
+  },
+  {
+    "id": "gomphusflavipes",
+    "scientific_name": "Gomphus flavipes",
+    "name": "Gomphus flavipes"
+  },
+  {
+    "id": "gomphusgraslinii",
+    "scientific_name": "Gomphus graslinii",
+    "name": "Gomphus graslinii"
+  },
+  {
+    "id": "gomphuspulchellus",
+    "scientific_name": "Gomphus pulchellus",
+    "name": "Gomphus pulchellus"
+  },
+  {
+    "id": "gomphusschneiderii",
+    "scientific_name": "Gomphus schneiderii",
+    "name": "Gomphus schneiderii"
+  },
+  {
+    "id": "gomphussimillimus",
+    "scientific_name": "Gomphus simillimus",
+    "name": "Gomphus simillimus"
+  },
+  {
+    "id": "gomphusvulgatissimus",
+    "scientific_name": "Gomphus vulgatissimus",
+    "name": "Sandflodtrollslända"
+  },
+  {
+    "id": "lindeniatetraphylla",
+    "scientific_name": "Lindenia tetraphylla",
+    "name": "Lindenia tetraphylla"
+  },
+  {
+    "id": "onychogomphuscostae",
+    "scientific_name": "Onychogomphus costae",
+    "name": "Onychogomphus costae"
+  },
+  {
+    "id": "onychogomphusforcipatus",
+    "scientific_name": "Onychogomphus forcipatus",
+    "name": "Stenflodtrollslända"
+  },
+  {
+    "id": "onychogomphusuncatus",
+    "scientific_name": "Onychogomphus uncatus",
+    "name": "Onychogomphus uncatus"
+  },
+  {
+    "id": "ophiogomphuscecilia",
+    "scientific_name": "Ophiogomphus cecilia",
+    "name": "Grön flodtrollslända"
+  },
+  {
+    "id": "paragomphusgenei",
+    "scientific_name": "Paragomphus genei",
+    "name": "Paragomphus genei"
+  },
+  {
+    "id": "oxygastracurtisii",
+    "scientific_name": "Oxygastra curtisii",
+    "name": "Oxygastra curtisii"
+  },
+  {
+    "id": "chalcolestesparvidens",
+    "scientific_name": "Chalcolestes parvidens",
+    "name": "Östlig trädflickslända"
+  },
+  {
+    "id": "chalcolestesviridis",
+    "scientific_name": "Chalcolestes viridis",
+    "name": "Västlig trädflickslända"
+  },
+  {
+    "id": "lestesbarbarus",
+    "scientific_name": "Lestes barbarus",
+    "name": "Vandrande smaragdflickslända"
+  },
+  {
+    "id": "lestesdryas",
+    "scientific_name": "Lestes dryas",
+    "name": "Kraftig smaragdflickslända"
+  },
+  {
+    "id": "lestesmacrostigma",
+    "scientific_name": "Lestes macrostigma",
+    "name": "Lestes macrostigma"
+  },
+  {
+    "id": "lestessponsa",
+    "scientific_name": "Lestes sponsa",
+    "name": "Pudrad smaragdflickslända"
+  },
+  {
+    "id": "lestesvirens",
+    "scientific_name": "Lestes virens",
+    "name": "Mindre smaragdflickslända"
+  },
+  {
+    "id": "sympecmafusca",
+    "scientific_name": "Sympecma fusca",
+    "name": "Vinterflickslända"
+  },
+  {
+    "id": "sympecmapaedisca",
+    "scientific_name": "Sympecma paedisca",
+    "name": "Sibirisk vinterflickslända"
+  },
+  {
+    "id": "brachythemisimpartita",
+    "scientific_name": "Brachythemis impartita",
+    "name": "Brachythemis impartita"
+  },
+  {
+    "id": "crocothemiserythraea",
+    "scientific_name": "Crocothemis erythraea",
+    "name": "Karmintrollslända"
+  },
+  {
+    "id": "diplacodeslefebvrii",
+    "scientific_name": "Diplacodes lefebvrii",
+    "name": "Diplacodes lefebvrii"
+  },
+  {
+    "id": "leucorrhiniaalbifrons",
+    "scientific_name": "Leucorrhinia albifrons",
+    "name": "Pudrad kärrtrollslända"
+  },
+  {
+    "id": "leucorrhiniacaudalis",
+    "scientific_name": "Leucorrhinia caudalis",
+    "name": "Bred kärrtrollslända"
+  },
+  {
+    "id": "leucorrhiniadubia",
+    "scientific_name": "Leucorrhinia dubia",
+    "name": "Myrtrollslända"
+  },
+  {
+    "id": "leucorrhiniapectoralis",
+    "scientific_name": "Leucorrhinia pectoralis",
+    "name": "Citronfläckad kärrtrollslända"
+  },
+  {
+    "id": "leucorrhiniarubicunda",
+    "scientific_name": "Leucorrhinia rubicunda",
+    "name": "Nordisk kärrtrollslända"
+  },
+  {
+    "id": "libelluladepressa",
+    "scientific_name": "Libellula depressa",
+    "name": "Bred trollslända"
+  },
+  {
+    "id": "libellulafulva",
+    "scientific_name": "Libellula fulva",
+    "name": "Spetsfläckad trollslända"
+  },
+  {
+    "id": "libellulaquadrimaculata",
+    "scientific_name": "Libellula quadrimaculata",
+    "name": "Fyrfläckad trollslända"
+  },
+  {
+    "id": "orthetrumalbistylum",
+    "scientific_name": "Orthetrum albistylum",
+    "name": "Vitstjärtad sjötrollslända"
+  },
+  {
+    "id": "orthetrumbrunneum",
+    "scientific_name": "Orthetrum brunneum",
+    "name": "Blåpannad sjötrollslända"
+  },
+  {
+    "id": "orthetrumcancellatum",
+    "scientific_name": "Orthetrum cancellatum",
+    "name": "Större sjötrollslända"
+  },
+  {
+    "id": "orthetrumchrysostigma",
+    "scientific_name": "Orthetrum chrysostigma",
+    "name": "Orthetrum chrysostigma"
+  },
+  {
+    "id": "orthetrumcoerulescens",
+    "scientific_name": "Orthetrum coerulescens",
+    "name": "Mindre sjötrollslända"
+  },
+  {
+    "id": "orthetrumnitidinerve",
+    "scientific_name": "Orthetrum nitidinerve",
+    "name": "Orthetrum nitidinerve"
+  },
+  {
+    "id": "orthetrumsabina",
+    "scientific_name": "Orthetrum sabina",
+    "name": "Orthetrum sabina"
+  },
+  {
+    "id": "orthetrumtaeniolatum",
+    "scientific_name": "Orthetrum taeniolatum",
+    "name": "Orthetrum taeniolatum"
+  },
+  {
+    "id": "orthetrumtrinacria",
+    "scientific_name": "Orthetrum trinacria",
+    "name": "Orthetrum trinacria"
+  },
+  {
+    "id": "pantalaflavescens",
+    "scientific_name": "Pantala flavescens",
+    "name": "Monsuntrollslända"
+  },
+  {
+    "id": "selysiothemisnigra",
+    "scientific_name": "Selysiothemis nigra",
+    "name": "Selysiothemis nigra"
+  },
+  {
+    "id": "sympetrumdanae",
+    "scientific_name": "Sympetrum danae",
+    "name": "Svart ängstrollslända"
+  },
+  {
+    "id": "sympetrumdepressiusculum",
+    "scientific_name": "Sympetrum depressiusculum",
+    "name": "Svartfläckad ängstrollslända"
+  },
+  {
+    "id": "sympetrumflaveolum",
+    "scientific_name": "Sympetrum flaveolum",
+    "name": "Gulfläckad ängstrollslända"
+  },
+  {
+    "id": "sympetrumfonscolombii",
+    "scientific_name": "Sympetrum fonscolombii",
+    "name": "Vandrande ängstrollslända"
+  },
+  {
+    "id": "sympetrummeridionale",
+    "scientific_name": "Sympetrum meridionale",
+    "name": "Ljusröd ängstrollslända"
+  },
+  {
+    "id": "sympetrumnigrifemur",
+    "scientific_name": "Sympetrum nigrifemur",
+    "name": "Sympetrum nigrifemur"
+  },
+  {
+    "id": "sympetrumpedemontanum",
+    "scientific_name": "Sympetrum pedemontanum",
+    "name": "Bandad ängstrollslända"
+  },
+  {
+    "id": "sympetrumsanguineum",
+    "scientific_name": "Sympetrum sanguineum",
+    "name": "Blodröd ängstrollslända"
+  },
+  {
+    "id": "sympetrumsinaiticum",
+    "scientific_name": "Sympetrum sinaiticum",
+    "name": "Sympetrum sinaiticum"
+  },
+  {
+    "id": "sympetrumstriolatum",
+    "scientific_name": "Sympetrum striolatum",
+    "name": "Större ängstrollslända"
+  },
+  {
+    "id": "sympetrumvulgatum",
+    "scientific_name": "Sympetrum vulgatum",
+    "name": "Tegelröd ängstrollslända"
+  },
+  {
+    "id": "trithemisannulata",
+    "scientific_name": "Trithemis annulata",
+    "name": "Trithemis annulata"
+  },
+  {
+    "id": "trithemisarteriosa",
+    "scientific_name": "Trithemis arteriosa",
+    "name": "Trithemis arteriosa"
+  },
+  {
+    "id": "trithemisfestiva",
+    "scientific_name": "Trithemis festiva",
+    "name": "Trithemis festiva"
+  },
+  {
+    "id": "trithemiskirbyi",
+    "scientific_name": "Trithemis kirbyi",
+    "name": "Trithemis kirbyi"
+  },
+  {
+    "id": "zygonyxtorridus",
+    "scientific_name": "Zygonyx torridus",
+    "name": "Zygonyx torridus"
+  },
+  {
+    "id": "macromiaamphigena",
+    "scientific_name": "Macromia amphigena",
+    "name": "Macromia amphigena"
+  },
+  {
+    "id": "macromiasplendens",
+    "scientific_name": "Macromia splendens",
+    "name": "Macromia splendens"
+  },
+  {
+    "id": "platycnemisacutipennis",
+    "scientific_name": "Platycnemis acutipennis",
+    "name": "Orange flodflickslända"
+  },
+  {
+    "id": "platycnemisdealbata",
+    "scientific_name": "Platycnemis dealbata",
+    "name": "Platycnemis dealbata"
+  },
+  {
+    "id": "platycnemislatipes",
+    "scientific_name": "Platycnemis latipes",
+    "name": "Platycnemis latipes"
+  },
+  {
+    "id": "latycnemispennipes",
+    "scientific_name": "Platycnemis pennipes",
+    "name": "Flodflickslända"
+  }
+]

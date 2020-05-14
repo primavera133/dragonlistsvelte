@@ -1,0 +1,50 @@
+{
+  "name": "dragonlist",
+  "description": "Keep a list",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "sapper dev",
+    "build": "sapper build --legacy",
+    "export": "sapper export --legacy",
+    "start": "node __sapper__/build",
+    "cy:run": "cypress run",
+    "cy:open": "cypress open",
+    "test": "run-p --race dev cy:run",
+    "serve": "firebase emulators:start --only functions",
+    "shell": "firebase functions:shell",
+    "firebase:start": "npm run shell",
+    "deploy": "npm run build && firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "dependencies": {
+    "compression": "^1.7.1",
+    "express": "^4.17.1",
+    "firebase-admin": "^8.10.0",
+    "firebase-functions": "^3.6.0",
+    "sirv": "^0.4.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/plugin-syntax-dynamic-import": "^7.0.0",
+    "@babel/plugin-transform-runtime": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/runtime": "^7.0.0",
+    "@rollup/plugin-commonjs": "11.0.2",
+    "@rollup/plugin-node-resolve": "^7.0.0",
+    "@rollup/plugin-replace": "^2.2.0",
+    "firebase": "^7.14.3",
+    "firebase-functions-test": "^0.2.0",
+    "npm-run-all": "^4.1.5",
+    "rollup": "^2.0.0",
+    "rollup-plugin-babel": "^4.0.2",
+    "rollup-plugin-svelte": "^5.0.1",
+    "rollup-plugin-terser": "^5.3.0",
+    "sapper": "^0.27.0",
+    "svelte": "^3.0.0",
+    "validate.js": "^0.13.1"
+  },
+  "engines": {
+    "node": "10"
+  },
+  "private": true
+}

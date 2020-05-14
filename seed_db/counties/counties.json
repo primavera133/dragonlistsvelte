@@ -1,0 +1,432 @@
+[
+  {
+    "id": "stockholm",
+    "name": "Stockholm",
+    "municipalities": {
+      "botkyrka": true,
+      "danderyd": true,
+      "ekero": true,
+      "haninge": true,
+      "huddinge": true,
+      "jarfalla": true,
+      "lidingo": true,
+      "nacka": true,
+      "norrtalje": true,
+      "nykvarn": true,
+      "nynashamn": true,
+      "salem": true,
+      "sigtuna": true,
+      "sollentuna": true,
+      "solna": true,
+      "stockholm": true,
+      "sundbyberg": true,
+      "sodertalje": true,
+      "tyreso": true,
+      "taby": true,
+      "upplandsbro": true,
+      "upplandsvasby": true,
+      "vallentuna": true,
+      "vaxholm": true,
+      "varmdo": true,
+      "osteraker": true
+    }
+  },
+  {
+    "id": "vasterbotten",
+    "name": "Västerbotten",
+    "municipalities": {
+      "dorotea": true,
+      "lycksele": true,
+      "mala": true,
+      "sorsele": true,
+      "storuman": true,
+      "vilhelmina": true,
+      "asele": true,
+      "norsjo": true,
+      "robertsfors": true,
+      "skelleftea": true,
+      "umea": true,
+      "vindeln": true,
+      "vannas": true,
+      "bjurholm": true,
+      "nordmaling": true
+    }
+  },
+  {
+    "id": "norrbotten",
+    "name": "Norrbottens län",
+    "municipalities": {
+      "pajala": true,
+      "overtornea": true,
+      "overkalix": true,
+      "boden": true,
+      "kalix": true,
+      "haparanda": true,
+      "alvsbyn": true,
+      "lulea": true,
+      "pitea": true,
+      "kiruna": true,
+      "gallivare": true,
+      "jokkmokk": true,
+      "arjeplog": true,
+      "arvidsjaur": true
+    }
+  },
+  {
+    "id": "uppsala",
+    "name": "Uppsala",
+    "municipalities": {
+      "alvkarleby": true,
+      "tierp": true,
+      "osthammar": true,
+      "uppsala": true,
+      "enkoping": true,
+      "haabo": true,
+      "knivsta": true,
+      "heby": true
+    }
+  },
+  {
+    "id": "sodermanland",
+    "name": "Södermanland",
+    "municipalities": {
+      "eskilstuna": true,
+      "flen": true,
+      "gnesta": true,
+      "katrineholm": true,
+      "nykoping": true,
+      "oxelosund": true,
+      "strangnas": true,
+      "trosa": true,
+      "vingaker": true
+    }
+  },
+  {
+    "id": "ostergotland",
+    "name": "Östergötland",
+    "municipalities": {
+      "boxholm": true,
+      "finspang": true,
+      "kinda": true,
+      "linkoping": true,
+      "mjolby": true,
+      "motala": true,
+      "norrkoping": true,
+      "soderkoping": true,
+      "vadstena": true,
+      "valdemarsvik": true,
+      "ydre": true,
+      "atvidaberg": true,
+      "odeshog": true
+    }
+  },
+  {
+    "id": "jonkoping",
+    "name": "Jönköping",
+    "municipalities": {
+      "aneby": true,
+      "eksjo": true,
+      "gislaved": true,
+      "gnosjo": true,
+      "habo": true,
+      "jonkoping": true,
+      "mullsjo": true,
+      "nassjo": true,
+      "savsjo": true,
+      "tranas": true,
+      "vaggeryd": true,
+      "vetlanda": true,
+      "varnamo": true
+    }
+  },
+
+  {
+    "id": "kronoberg",
+    "name": "Kronoberg",
+    "municipalities": {
+      "alvesta": true,
+      "lessebo": true,
+      "ljungby": true,
+      "markaryd": true,
+      "tingsryd": true,
+      "uppvidinge": true,
+      "vaxjo": true,
+      "almhult": true
+    }
+  },
+
+  {
+    "id": "kalmar",
+    "name": "Kalmar",
+    "municipalities": {
+      "emmaboda": true,
+      "hultsfred": true,
+      "hogsby": true,
+      "kalmar": true,
+      "monsteras": true,
+      "nybro": true,
+      "oskarshamn": true,
+      "torsas": true,
+      "vimmerby": true,
+      "vastervik": true,
+      "borgholm": true,
+      "morbylanga": true
+    }
+  },
+
+  {
+    "id": "gotland",
+    "name": "Gotland",
+    "municipalities": {
+      "gotland": true
+    }
+  },
+
+  {
+    "id": "blekinge",
+    "name": "Blekinge",
+    "municipalities": {
+      "karlshamn": true,
+      "karlskrona": true,
+      "olofstrom": true,
+      "ronneby": true,
+      "solvesborg": true
+    }
+  },
+
+  {
+    "id": "skane",
+    "name": "Skåne",
+    "municipalities": {
+      "bjuv": true,
+      "bromolla": true,
+      "burlov": true,
+      "bastad": true,
+      "eslov": true,
+      "helsingborg": true,
+      "hassleholm": true,
+      "hoganas": true,
+      "horby": true,
+      "hoor": true,
+      "klippan": true,
+      "kristianstad": true,
+      "kavlinge": true,
+      "landskrona": true,
+      "lomma": true,
+      "lund": true,
+      "malmo": true,
+      "osby": true,
+      "perstorp": true,
+      "simrishamn": true,
+      "sjobo": true,
+      "skurup": true,
+      "staffanstorp": true,
+      "svalov": true,
+      "svedala": true,
+      "tomelilla": true,
+      "trelleborg": true,
+      "vellinge": true,
+      "ystad": true,
+      "astorp": true,
+      "angelholm": true,
+      "orkelljunga": true,
+      "ostragoinge": true
+    }
+  },
+
+  {
+    "id": "halland",
+    "name": "Halland",
+    "municipalities": {
+      "falkenberg": true,
+      "halmstad": true,
+      "hylte": true,
+      "kungsbacka": true,
+      "laholm": true,
+      "varberg": true
+    }
+  },
+
+  {
+    "id": "vastragotaland",
+    "name": "Västra Götaland",
+    "municipalities": {
+      "ale": true,
+      "alingsas": true,
+      "bengtsfors": true,
+      "bollebygd": true,
+      "boras": true,
+      "dalsed": true,
+      "essunga": true,
+      "falkoping": true,
+      "fargelanda": true,
+      "grastorp": true,
+      "gullspang": true,
+      "gotene": true,
+      "goteborg": true,
+      "herrljunga": true,
+      "hjo": true,
+      "harryda": true,
+      "karlsborg": true,
+      "kungalv": true,
+      "lerum": true,
+      "lidkoping": true,
+      "lillaedet": true,
+      "lysekil": true,
+      "mariestad": true,
+      "mark": true,
+      "mellerud": true,
+      "munkedal": true,
+      "molndal": true,
+      "orust": true,
+      "partille": true,
+      "skara": true,
+      "skovde": true,
+      "sotenas": true,
+      "stenungsund": true,
+      "stromstad": true,
+      "svenljunga": true,
+      "tanum": true,
+      "tibro": true,
+      "tidaholm": true,
+      "tjorn": true,
+      "tranemo": true,
+      "trollhattan": true,
+      "toreboda": true,
+      "uddevalla": true,
+      "ulricehamn": true,
+      "vara": true,
+      "vargarda": true,
+      "vanersborg": true,
+      "amal": true,
+      "ockero": true
+    }
+  },
+
+  {
+    "id": "varmland",
+    "name": "Värmland",
+    "municipalities": {
+      "arvika": true,
+      "eda": true,
+      "filipstad": true,
+      "forshaga": true,
+      "grums": true,
+      "hagfors": true,
+      "hammaro": true,
+      "karlstad": true,
+      "kil": true,
+      "kristinehamn": true,
+      "munkfors": true,
+      "storfors": true,
+      "sunne": true,
+      "saffle": true,
+      "torsby": true,
+      "arjang": true
+    }
+  },
+
+  {
+    "id": "orebro",
+    "name": "Örebro",
+    "municipalities": {
+      "askersund": true,
+      "degerfors": true,
+      "hallefors": true,
+      "hallsberg": true,
+      "karlskoga": true,
+      "kumla": true,
+      "laxa": true,
+      "lekeberg": true,
+      "lindesberg": true,
+      "ljusnarsberg": true,
+      "nora": true,
+      "orebro": true
+    }
+  },
+
+  {
+    "id": "vastmanland",
+    "name": "Västmanland",
+    "municipalities": {
+      "arboga": true,
+      "fagersta": true,
+      "hallstahammar": true,
+      "kungsor": true,
+      "koping": true,
+      "norberg": true,
+      "sala": true,
+      "skinnskatteberg": true,
+      "surahammar": true,
+      "vasteras": true
+    }
+  },
+
+  {
+    "id": "dalarna",
+    "name": "Dalarna",
+    "municipalities": {
+      "alvdalen": true,
+      "avesta": true,
+      "borlange": true,
+      "falun": true,
+      "gagnef": true,
+      "hedemora": true,
+      "leksand": true,
+      "ludvika": true,
+      "malungsalen": true,
+      "mora": true,
+      "orsa": true,
+      "rattvik": true,
+      "sater": true,
+      "smedjebacken": true,
+      "vansbro": true
+    }
+  },
+
+  {
+    "id": "gavleborg",
+    "name": "Gävleborg",
+    "municipalities": {
+      "gavle": true,
+      "hofors": true,
+      "ockelbo": true,
+      "sandviken": true,
+      "bollnas": true,
+      "hudiksvall": true,
+      "ljusdal": true,
+      "nordanstig": true,
+      "ovanaker": true,
+      "soderhamn": true
+    }
+  },
+
+  {
+    "id": "vasternorrland",
+    "name": "Västernorrland",
+    "municipalities": {
+      "sundsvall": true,
+      "timra": true,
+      "ange": true,
+      "harnosand": true,
+      "kramfors": true,
+      "solleftea": true,
+      "ornskoldsvik": true
+    }
+  },
+
+  {
+    "id": "jamtland",
+    "name": "Jämtland",
+    "municipalities": {
+      "harjedalen": true,
+      "berg": true,
+      "bracke": true,
+      "krokom": true,
+      "ragunda": true,
+      "stromsund": true,
+      "are": true,
+      "ostersund": true
+    }
+  }
+]
